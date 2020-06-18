@@ -13,6 +13,16 @@ h2 {
 	font-color: black;
 }
 
+h3 {
+	font-size: 300%;
+	font-color: black;
+}
+
+h4 {
+	font-size: 200%;
+	font-color: black;
+}
+
 .center {
 	text-align: center;
 }
