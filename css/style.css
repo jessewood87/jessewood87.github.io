@@ -33,6 +33,8 @@ h4 {
 }
 
 .container {
+	max-width: 800px;
+	margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
 }
@@ -44,4 +46,8 @@ h4 {
 .container img {
   width: calc(100% - (20px * 2));
   margin: 20px;
+}
+
+.hidden {
+  display: none;
 }
