@@ -6,7 +6,7 @@ const INTERNSHIPS = [
   		description: "Help coach some of New Zealands future star atheltes in this thriving metropolis.",
       date_range: "July - August",
       pay: "$675 Per Week",
-  		image: "images/dargaville.jpg",
+  		image: "Images/dargaville.jpg",
   		image_title: "Dargaville"
     },
     {
@@ -16,7 +16,7 @@ const INTERNSHIPS = [
     		description: "When the world thinks of academia they think of Huntly. Be the shining light to the next math prodigy from Huntly.",
         date_range: "September - November",
         pay: "$625 Per Week",
-    		image: "images/huntly.jpg",
+    		image: "Images/huntly.jpg",
     		image_title: "Huntly"
     },
     {
@@ -26,7 +26,7 @@ const INTERNSHIPS = [
         description: "Give students the tools they need to tell tales of magical Tokoroa.",
         date_range: "August - October",
         pay: "$650 Per Week",
-        image: "images/tokoroa.jpg",
+        image: "Images/tokoroa.jpg",
         image_title: "Tokoroa"
     },
     {
@@ -36,7 +36,7 @@ const INTERNSHIPS = [
         description: "Free Jazz or Psytrance, what musical influence can you bring and enrich our town?",
         date_range: "July - August",
         pay: "$680 Per Week",
-        image: "images/thames.jpg",
+        image: "Images/thames.jpg",
         image_title: "Thames"
     }
 ]
